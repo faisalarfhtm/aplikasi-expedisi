@@ -46,4 +46,16 @@ Client Side :
 3. Run Project Pada IDE
 4. Setelah Berjalan biasanya pada http://localhost:8080
 
+-DATABASE-
+1. Pastikan telah menginstall H2 Database, Jika belum dapat mengunjungi website https://www.h2database.com/
+2. Setelah Install H2 Database, Jalan kan H2 Console (command line)
+3. Kemudian isi JDBC URL isi kan dengan jdbc:h2:mem:expedisi
+4. Isi Username sa & Password kosongkan
+5. Kemudian Klik connect
+6. Setelah sukses, jalankan Query berikut untuk membuat tabel :
 CREATE TABLE databarang ( id INT NOT NULL, namabarang VARCHAR(50) NOT NULL, jumlah int NOT NULL, tanggalpencatatan DATE );
+
+
+Setelah semua Sukses, Aplikasi dapat Berjalan. 
+Feel Free for your advice and comment.
+Having Fun, and Enjoy Coding.
