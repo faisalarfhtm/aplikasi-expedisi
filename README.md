@@ -58,5 +58,7 @@ CREATE TABLE databarang ( id INT NOT NULL, namabarang VARCHAR(50) NOT NULL, juml
 
 
 Setelah semua Sukses, Aplikasi dapat Berjalan. 
+
 Feel Free for your advice and comment.
+
 Having Fun, and Enjoy Coding.
