@@ -29,7 +29,7 @@ Client Side :
 - Bootstrap 4.5 and Axios HTTP Library
 
 
-==================================== Cara Menjalankan Code========================================
+==================Cara Menjalankan Code=============
 -FRONT END-
 1. Clone / Download Front End (Folder aplikasi-expedisi)
 2. Download Asset pada link https://drive.google.com/file/d/1Nk7eFc2gQFMtRr4tFjdOpZJXoTRO4SNH/view?usp=sharing
